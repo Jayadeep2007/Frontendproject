@@ -1,7 +1,7 @@
 # HTML, CSS & JavaScript – Practical Programs
 
 **Student Name:** Jayadeep
-**Register Number:** _____________________
+**Register Number:** CDS/2025/1468
 **Class / Section:** Section 5
 **School:** School of Computing and Data Science
 **Subject:** Web Development / Internet Programming Lab
